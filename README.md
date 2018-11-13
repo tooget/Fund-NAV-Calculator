@@ -1,5 +1,8 @@
 # Fund-NAV-Calculator
 Calculator for Fund NAV focused on Derivatives.
+```
+Last updated in Aug, 2017.
+```
 
 ## Summary
 ### 1. Purpose
